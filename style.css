@@ -17,6 +17,15 @@ p{
     font-size: 14px;
 }
 
+h4{
+    font-size: 16px;
+}
+
+.bold{
+    font-weight: bold;
+    text-shadow: #000000;
+}
+
 
 
 a,
@@ -784,7 +793,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffc8af!important;
 }
 
 .btn-atomic-tangerine {
